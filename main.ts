@@ -3,6 +3,8 @@
 import inquirer from "inquirer";
 
 let RandomNumber = Math.floor( Math.random()* 6 + 1);
+
+console.log("Welcome to guessing number game.");
 let answer = await inquirer.prompt (
     [
         {

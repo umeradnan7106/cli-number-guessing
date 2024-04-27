@@ -1,6 +1,6 @@
 {
   "name": "u710a6-cli-number-guessing",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "This is cli bassed numbers guessing game.",
   "main": "index.js",
   "type": "module",
